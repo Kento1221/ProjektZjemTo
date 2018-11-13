@@ -1,0 +1,182 @@
+body {
+    margin: 0px;  
+    margin-top: -22px;  
+    text-align: center;
+    font-family: "Times New Roman";
+	background-image: url(http://magurwarzywa.e-kei.pl/wp-content/uploads/2015/07/magur-tlo2.jpg);  
+}
+
+
+#firpbody {
+    background-image: url("http://s5.ifotos.pl/img/pobranejp_sshqxqe.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+a{ 
+text-decoration: none;
+}
+h1 {
+    text-align: center;
+    font-size:75px;
+    padding-top: 12%;
+    color: 	#FFEBCD;
+    text-shadow: 2px 2px saddlebrown; 
+    font-style: italic;
+}
+
+#footer{
+    text-align: right;
+    font-size:21px;
+    color: #FFEBCD;
+    text-shadow: 2px 2px saddlebrown; 
+    padding-top: 144px;
+    padding-right: 16%;
+    font-style: italic;
+}
+
+.let {
+    text-align: center;
+    font-size:55px;
+    color: 	#FFEBCD;
+    text-shadow: 2px 2px saddlebrown; 
+    padding-top: 55px;
+    font-style: italic;
+	width:550px;
+	margin:auto;
+}
+
+.let:hover{
+	color: 	#FFEBCD;
+	text-shadow:5px 5px 10px white;
+}
+
+.tab1 {
+height: 698px;
+width: 1190px;
+margin:auto;
+margin-top:64px;
+overflow: auto; 
+
+
+}
+
+.czci{
+color: white; 
+font-family: 'Times New Roman';
+font-weight: bold;
+font-style: italic;
+font-size: 45px;
+text-align: center;
+}
+.wyb{
+font-style: italic;
+font-family: 'Times New Roman';
+font-weight: bold;
+font-size: 60px;
+color: 	#FFEBCD;
+text-shadow:7px 7px 10px black;
+margin-top:0px;
+
+}
+
+.wyb2{
+font-style: italic;
+font-family: 'Times New Roman';
+font-weight: bold;
+font-size: 45px;
+color: 	#FFEBCD;
+text-shadow:7px 7px 10px black;
+margin-top:0px;
+
+}
+
+
+.table1 {
+    margin:auto;
+    width: auto; 
+    height: 150px;
+    margin-left:-15px;
+        }
+td:hover{
+	text-shadow:7px 7px 10px black;
+}
+		
+   .table2 {
+    width:auto; 
+    height: 170px;
+    
+        }     
+.diva{
+   padding-top: 100px;         
+            
+}
+
+#bazylia{
+    background-image: url("http://www.titotito.pl/images/bazylia1.png"); 
+    background-repeat: no-repeat;
+    height:143px;
+    width:277px;
+    float:right;
+    margin-top: -8.5%;
+    padding-left: 140px;
+}
+
+.przyc {
+    color: 	white;
+    font-style: italic;
+	
+}
+
+.czci2{
+color: white; 
+font-family: 'Times New Roman';
+font-weight: bold;
+font-style: italic;
+font-size: 37px;
+text-align: center;
+}
+.czci2:hover{
+	text-shadow:7px 7px 10px black;
+}
+
+#footer2{
+	float:left;
+	margin-left:3%;
+	margin-top: -1%;
+}
+#strzalka{
+	max-width:120px;
+}
+
+#obrazek{
+	float:right;
+}
+
+#wyszukiwarka{
+	color:black;
+	float:left;
+	padding-top:90px;
+	font-family: 'Times New Roman';
+	font-style: italic;
+	margin-top:-12%;
+	margin-left:7%;
+	width:260px;
+	height:180px;
+	-ms-transform: rotate(-17deg); /* IE 9 */
+    -webkit-transform: rotate(-17deg); /* Chrome, Safari, Opera */
+    transform: rotate(-17deg);
+}
+#wyszukiwarka:hover{
+	text-shadow:0px 0px 25px limegreen;
+}
+#napish2{
+	-ms-transform: rotate(-2deg); /* IE 9 */
+    -webkit-transform: rotate(-2deg); /* Chrome, Safari, Opera */
+    transform: rotate(-2deg);
+}
+
+#lista{
+	margin-top:7%;
+
+}

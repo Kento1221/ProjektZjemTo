@@ -1,0 +1,121 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+	background-image: url("http://magurwarzywa.e-kei.pl/wp-content/uploads/2015/07/magur-tlo2.jpg"); 
+	
+}
+
+.twoj{
+	width:625px;
+	height:699px;
+	float:right;
+	margin-right:4%;
+	margin-top:3%;
+	margin-bottom:3%;
+	font-size:40px;
+	color:black;
+	font-style:italic;
+		background-image:url("http://zjemto.blox.pl/resource/1s16_tresc.jpg");
+}
+
+img{
+	margin-left:3%;
+	margin-right:3%;
+	margin-top:3%;
+	margin-bottom:3%;
+	max-width:550px;
+	max-height:699px;
+	float:left;	
+}
+.strza {
+	max-width:120px;
+}
+
+.przepis{
+	background-image: url("http://zjemto.blox.pl/resource/1s16_tresc.jpg");
+	margin:auto;
+	overflow:auto;
+	width: 990px;
+	margin-top:5%;
+	min-height:120px;
+	box-shadow: 0 0 20px 10px #FFFCF4;
+}
+#footer{
+		float:left;
+		margin-left:2%;
+}
+#strzalka {
+
+	max-width:120px;
+}
+
+.wyb{
+font-style: italic;
+font-family: 'Times New Roman';
+font-weight: bold;
+font-size: 75px;
+color: 	#ff0000;
+text-shadow:3px 3px 5px black;
+text-align:right;
+padding-right:45px;
+padding-top:15px;
+max-width:850px;
+padding-left:13%;
+
+}
+#obrazek{
+	float:left;
+	max-width:540px;
+	padding-left:13%;
+}
+
+#skladniki{
+	float:right;
+	padding-right:5%;
+	padding-top:5.6%;
+	font-size:16px;
+	font-style:italic;
+	font-weight:bold;
+	line-height:20px;
+	
+
+}
+
+#przepis{
+	float:left;
+	margin-left:18%;
+	padding-right:6%;
+	line-height:22px;
+	font-size:20px;
+	min-width:550px;
+}
+
+#kalk{
+	float:left;
+	margin-left:16%;
+	font-style:italic;
+	margin-bottom:4%;
+}
+
+h3{
+	font-size:60px;
+}
